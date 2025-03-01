@@ -1,0 +1,1 @@
+Still working on a Real-Time Cricket Commentary Generator in Tamil that analyzes live match footage to identify players, the ball, and the bat. The system is being trained to recognize key moments like sixes, wickets, and run-outs and generate real-time Tamil commentary for an immersive experience.
